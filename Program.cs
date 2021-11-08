@@ -6,7 +6,7 @@ namespace QueueApp
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World Ricky!");
+            Console.WriteLine("Hello World Ricky V!");
         }
     }
 }
